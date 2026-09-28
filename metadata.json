@@ -1,0 +1,6 @@
+{
+  "name": "FileVault",
+  "description": "Upload, manage, preview, and download files securely on your device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
